@@ -1,0 +1,8 @@
+Git jest oprogramowaniem o otwartych ´zród³ach, wydany na licencji
+GNU General Public License. Debiut systemu mia³ miejsce w 2005
+roku, a jego developerzy jako g³ówne cele stawiaj ²a:
+• szybko´s´c,
+• wsparcie dla nieliniowego rozwijania produktu (oprogramowania),
+• mozliwo´sci utrzymywania du ÿ zych projektów, ÿ
+• pe³ne wsparcie dla rozproszenia repozytorium.
+Git przy kazdym zatwierdzeniu (ang. commit) twor
